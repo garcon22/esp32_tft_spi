@@ -12,9 +12,7 @@ TFT_eSPI tft = TFT_eSPI();
 
 const int vasas = 1;
 
-// dd
 
-// hello
 
 //####################################################################################################
 // Draw a JPEG on the TFT pulled from SD Card
