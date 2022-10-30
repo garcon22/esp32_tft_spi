@@ -10,7 +10,11 @@ TFT_eSPI tft = TFT_eSPI();
 // JPEG decoder library
 #include <JPEGDecoder.h>
 
+const int vasas = 1;
 
+// dd
+
+// hello
 
 //####################################################################################################
 // Draw a JPEG on the TFT pulled from SD Card
