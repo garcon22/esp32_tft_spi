@@ -10,7 +10,9 @@ TFT_eSPI tft = TFT_eSPI();
 // JPEG decoder library
 #include <JPEGDecoder.h>
 
-const int vasas = 1;
+// const int vasas = 1;
+
+// dasdasd
 
 
 
